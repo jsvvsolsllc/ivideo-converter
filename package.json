@@ -1,0 +1,13 @@
+{
+  "name": "ivideo-converter",
+  "version": "1.0.0",
+  "description": "Free video converter for any format. Convert and compress videos instantly in your browser — no software needed.",
+  "homepage": "https://ivideoconverter.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsvvsolsllc/ivideo-converter"
+  },
+  "keywords": ["video-converter","convert-video","mp4-converter","free-video-tools","online-converter"],
+  "author": "JSVV SOLS LLC",
+  "license": "MIT"
+}
